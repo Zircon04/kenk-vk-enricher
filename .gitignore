@@ -4,6 +4,10 @@
 /tmp
 /data
 /profiles
+*.bak
+*.zip
+cookies*.txt
+cookies*.sqlite*
 release-github.bat
 .claude/
 .specstory/
